@@ -1,3 +1,5 @@
 Haciendo prueba de git.
 
-En 10/21/2022
+En 10/20/2022
+
+y le arregle un error
